@@ -19,7 +19,3 @@ npm start
 
 Open the App:
 The app will open automatically in your browser
-
-Copy the link to the project (https://mpilwenhle-foodify-app.netlify.app/) and paste on your browser then enter.
-=======
-(First project commit)
