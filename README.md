@@ -8,7 +8,7 @@ To run the project locally:
 Install Node.js and npm on your machine.
 
 Clone the Repository:
-git clone https://github.com/your-username/foodify.git
+git clone https://github.com/MpilwenhleNsibande/Mpilwenhle-Foodify-app
 cd foodify
 
 Install Dependencies
