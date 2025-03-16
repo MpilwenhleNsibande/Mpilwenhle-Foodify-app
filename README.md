@@ -1,5 +1,8 @@
-This is the link to the project: 
+This is the link to the project: https://mpilwenhle-foodify-app.netlify.app/
 # Foodify-app
-A web application for food recipes
+This is a web application for food recipes
+
+To run the project:
+Copy the link to the project (https://mpilwenhle-foodify-app.netlify.app/) and paste on your browser then enter.
 =======
 (First project commit)
